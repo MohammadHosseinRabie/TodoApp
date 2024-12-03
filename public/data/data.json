@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Information Systems Manager",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Senior Developer",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Senior Financial Analyst",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Geologist I",
+    "completed": true
+  },
+  {
+    "id": 5,
+    "title": "Computer Systems Analyst IV",
+    "completed": true
+  },
+  {
+    "id": 6,
+    "title": "Cost Accountant",
+    "completed": true
+  },
+  {
+    "id": 7,
+    "title": "Sales Associate",
+    "completed": true
+  }
+]
